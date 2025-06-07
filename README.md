@@ -1,1 +1,1 @@
-# LCD_i2c_16x2-STM32-blue-pill-
+# LCD_i2c_16x2-STM32-blue-pill
